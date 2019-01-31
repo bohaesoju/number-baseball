@@ -1,0 +1,20 @@
+{
+  "name": "number-baseball",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "devwatch": "tsc script.ts -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bohaesoju/number-baseball.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bohaesoju/number-baseball/issues"
+  },
+  "homepage": "https://github.com/bohaesoju/number-baseball#readme"
+}
